@@ -5,3 +5,4 @@ This repositor contains all the tutorials, guides, and other info for the DS2 wo
 * `D2S_python_workshop_schedule.pdf`: The tenative schedule of subjects we will be covering.
 * `Git_config_GitHub_ssh.pdf`: A step by step guide for configuring git on your CSEL instance as well as how to generate and add an SSH key on GitHub.
 * `git_GitHub_version_control.pdf`: Version control overview, step-by-step proceedure for using git, GitHub repo overview
+* `SMART_presentation_guidelines.pdf`: Guidelines for your presentation to the SMART students
