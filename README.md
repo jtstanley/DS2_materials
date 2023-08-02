@@ -7,3 +7,5 @@ This repositor contains all the tutorials, guides, and other info for the DS2 wo
 * `git_GitHub_version_control.pdf`: Version control overview, step-by-step proceedure for using git, GitHub repo overview
 * `SMART_presentation_guidelines.pdf`: Guidelines for your presentation to the SMART students
 * `Python_primer.pdf`: An introduction to the basic functionality of Python
+* `Intro_python_discussion.ipynb`: Notebook we used in class to demonstrate Python features
+* `Python_best_practices.pdf`: A follow up to the Python primer, an overview of best practices
